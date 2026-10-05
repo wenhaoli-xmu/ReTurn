@@ -1,0 +1,14 @@
+torch>=2.6
+transformers==5.5.3
+triton>=3.3
+httpx[http2]
+tenacity
+orjson
+wandb
+pyarrow
+numpy
+ray
+uvicorn
+fastapi
+pydantic
+pynvml
